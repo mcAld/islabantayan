@@ -1,0 +1,22 @@
+/* Global style */
+body{
+    font-family:HelveticaNeue,Helvetica,custom,sans-serif;
+    font-size: 13px;
+    margin: 0 auto;
+}
+div.div_wrapr{
+	max-width: 100%;
+	min-width:1096px;
+    margin:0px;
+}
+div#bnr_head{
+	height: 70px;
+    background: #272727!important;
+    box-shadow: 2px 1px 3px rgba(63, 61, 61, 1);
+}
+div#hdr_con{
+	height: 70px;
+	width: 996px;
+	border: 1px solid white;
+	margin: auto;
+}
